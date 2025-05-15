@@ -1,0 +1,2 @@
+C:\Users\misha\source\repos\Book accounting\Book accounting\bin\Release\net8.0\win-x64\publish\Book accounting.exe
+C:\Users\misha\source\repos\Book accounting\Book accounting\bin\Release\net8.0\win-x64\publish\Book accounting.pdb

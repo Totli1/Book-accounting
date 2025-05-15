@@ -46,8 +46,8 @@
 ```
 ![image](https://github.com/user-attachments/assets/037729e4-468b-44b6-9546-40c293e36e96)
 
-Пример файла books.json:
-## 📚 Пример JSON с книгами  
+
+## 📚 Пример файла books.json:
 ```json
 [
   {
